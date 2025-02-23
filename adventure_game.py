@@ -39,5 +39,3 @@ else:
     print("Not a valid answer. You loose :(")
 
 print(f"Thank you {name} for trying and for your time")
-
-help(list)
